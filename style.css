@@ -4,6 +4,7 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f7710b;
     min-height: 200vh;
+    color: white;
 }
 header {
     background-color: #ead704;
@@ -15,7 +16,7 @@ nav {
     position: fixed;
     top: 0;
     width: 100%;
-    background-color: rgb(184, 179, 226);
+    background-color: rgb(25, 0, 255);
     color: rgb(0, 0, 0);
     padding: 15px 0;
     z-index: 1000;
@@ -32,4 +33,11 @@ p {
     line-height: 1.6;
     margin-bottom: 20px;
     background-color: aqua;
+}
+button {
+    background-color: #0202ab;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
 }
