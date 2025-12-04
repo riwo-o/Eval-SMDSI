@@ -50,4 +50,21 @@ p {
     padding: 10px;
     border-radius: 5px;
     color: black;
+    margin: 10px 50px;
+}
+form {
+    background-color: #ff0084;
+    padding: 20px;
+    border-radius: 5px;
+    color: white;
+}
+img {
+    height: 200px;
+    width: 200px;
+    margin-bottom: 10px;
+}
+a {
+    color: black;
+    text-decoration: none;
+    margin: 0 20%;
 }
